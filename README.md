@@ -4,7 +4,8 @@
 
 
 
-**Description:**🙌🏽
+### Description:🙌🏽
+
 Piano Game is a simple and educational project developed using the Python programming language and the Pygame library. In this game, the user can play different piano notes and create their own melodies using the note editor.
 
 ## Features🔗
